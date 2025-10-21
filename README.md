@@ -15,5 +15,9 @@ This is how they are connected with order ID in common.
 
 <img width="1086" height="722" alt="connections" src="https://github.com/user-attachments/assets/acff3e15-c60a-45bb-8c1e-139ef7e67368" />
 
+I used a greadiant background.
+And this how the Final Dashboard looks
+<img width="1302" height="735" alt="Final Dasboard" src="https://github.com/user-attachments/assets/63f01b14-1ef9-4dd9-ac6b-8dfa06b3897c" />
+
 
 
