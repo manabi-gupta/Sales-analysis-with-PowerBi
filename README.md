@@ -51,5 +51,12 @@ Printers and Bookcases contribute the highest profit margins among sub-categorie
 
 
 It is an interactive Dasboard , it can be sorted with quaters.
+This is how it looks on the 2nd Quater of the year
+<img width="1279" height="727" alt="Screenshot 2025-10-21 230612" src="https://github.com/user-attachments/assets/75c6af4a-4d57-4c0b-b542-f24b252bef08" />
+
+This is how it looks im the 4th quater of the layer
+<img width="1270" height="735" alt="Screenshot 2025-10-21 230629" src="https://github.com/user-attachments/assets/f74bfa2c-6cc3-402f-b955-456e5bab08ea" />
+
+
 
 
