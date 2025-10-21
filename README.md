@@ -58,11 +58,31 @@ This is how it looks im the 4th quater of the layer
 <img width="1270" height="735" alt="Screenshot 2025-10-21 230629" src="https://github.com/user-attachments/assets/f74bfa2c-6cc3-402f-b955-456e5bab08ea" />
 
 We can also see the data analysis based on different states
-For Maharashtra:
+## For Maharashtra:
 <img width="1274" height="735" alt="Screenshot 2025-10-21 230654" src="https://github.com/user-attachments/assets/ea6a41d3-8021-4b34-83cf-7fc816e95ef3" />
 
-For Uttar Pradesh:
+## For Uttar Pradesh:
 <img width="1302" height="740" alt="Screenshot 2025-10-21 230712" src="https://github.com/user-attachments/assets/ebb26f5a-e492-4b11-8c81-048e0d0029ca" />
+
+## For West Bengal
+<img width="1279" height="733" alt="Screenshot 2025-10-21 230730" src="https://github.com/user-attachments/assets/df056aab-1318-4381-855c-4a825f2ab48b" />
+
+## Tools & Technologies Used
+
+Power BI Desktop – Data modeling and visualization
+Excel / CSV Dataset – Data source
+DAX & Power Query – Calculated measures and data transformation
+
+## Purpose
+
+-This dashboard helps business stakeholders:
+-Track sales and profit performance across time and regions
+-Identify top-performing products and customers
+-Optimize payment and category strategies for better ROI
+
+
+
+
 
 
 
