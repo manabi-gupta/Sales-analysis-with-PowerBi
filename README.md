@@ -57,6 +57,16 @@ This is how it looks on the 2nd Quater of the year
 This is how it looks im the 4th quater of the layer
 <img width="1270" height="735" alt="Screenshot 2025-10-21 230629" src="https://github.com/user-attachments/assets/f74bfa2c-6cc3-402f-b955-456e5bab08ea" />
 
+We can also see the data analysis based on different states
+For Maharashtra:
+<img width="1274" height="735" alt="Screenshot 2025-10-21 230654" src="https://github.com/user-attachments/assets/ea6a41d3-8021-4b34-83cf-7fc816e95ef3" />
+
+For Uttar Pradesh:
+<img width="1302" height="740" alt="Screenshot 2025-10-21 230712" src="https://github.com/user-attachments/assets/ebb26f5a-e492-4b11-8c81-048e0d0029ca" />
+
+
+
+
 
 
 
