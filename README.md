@@ -19,5 +19,37 @@ I used a greadiant background.
 And this how the Final Dashboard looks
 <img width="1302" height="735" alt="Final Dasboard" src="https://github.com/user-attachments/assets/63f01b14-1ef9-4dd9-ac6b-8dfa06b3897c" />
 
+## Key Insights
+
+-Total Sales: ₹438K
+-Total Quantity Sold: 5,615 units
+-Total Profit: ₹37K
+-Average Order Value (AOV): ₹121K
+
+## Dashboard Highlights
+
+1. Sales Overview
+Displays overall revenue, quantity sold, profit, and AOV in KPI cards for quick reference.
+Includes dynamic filters for quarters and states to view time-based or region-specific performance.
+
+2. State-wise Performance
+Bar chart showing the Sum of Amount by State, with Maharashtra leading in total sales.
+
+3. Category Analysis
+Donut chart representing Quantity by Category — Clothing (63%) dominates the sales share, followed by Electronics (21%) and Furniture (17%).
+
+4. Monthly Profit Trend
+Visualizes Profit by Month with clear positive and negative trends.
+Notable profit peaks in January and December; a dip observed around May–June.
+
+5. Customer & Payment Insights
+Top Customers: Harivansh, Madhav, Madan Mohan, and Shiva.
+Payment Modes: COD (44%) is the most preferred payment method, followed by UPI (21%) and Debit Card (13%).
+
+6. Sub-Category Profitability
+Printers and Bookcases contribute the highest profit margins among sub-categories.
+
+
+It is an interactive Dasboard , it can be sorted with quaters.
 
 
