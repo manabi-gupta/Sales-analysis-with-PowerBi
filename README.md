@@ -7,6 +7,13 @@ The Madhav E-Commerce Sales Dashboard is an interactive Power BI project designe
 
 These are the 2 tables used for it
 <img width="1874" height="733" alt="Table 1" src="https://github.com/user-attachments/assets/9997f925-1126-421e-a387-d4086bf645b7" />
+
 <img width="1870" height="727" alt="Table 2" src="https://github.com/user-attachments/assets/61abd332-ff4e-4915-ad48-82570d5ece65" />
+
+
+This is how they are connected with order ID in common.
+
+<img width="1086" height="722" alt="connections" src="https://github.com/user-attachments/assets/acff3e15-c60a-45bb-8c1e-139ef7e67368" />
+
 
 
